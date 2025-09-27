@@ -1,0 +1,16 @@
+|   code     |   score    |
+| :--------- | ---------: |
+| bucket.cpp            | 53906 |
+| faster-mod.cpp        | 50853 |
+| minor-opts.cpp        | 49919 |
+| unsigned-overflow.cpp | 46850 |
+| alignas.cpp           | 46632 |
+| tight-bucket.cpp      | 45964 |
+| fenwick.cpp           | 59251 |
+| faster-queue.cpp      | 42977 |
+| memory-opt.cpp        | 42478 |
+| super-bucket.cpp      | 40130 |
+| memchr.cpp            | 35840 |
+| bitset.cpp            | 42435 |
+| prefault.cpp          | 35757 |
+| op2-simd.cpp          | 35561 |
